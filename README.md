@@ -1,6 +1,5 @@
 # mobile
 
-Projet de memoire Stéphane KANKU
 
 ## Getting Started
 
